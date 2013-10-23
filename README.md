@@ -9,7 +9,10 @@ Charcoal is used to generate and build apps that use [Ember Boilerplate](https:/
 ## Installation
 
 ```
-git clone git://github.com/thomasboyt/Charcoal.git
+git clone https://github.com/canvasnyc/charcoal.git
+cd charcoal
+git checkout gct
+cd ../
 npm install -g Charcoal/
 ```
 
